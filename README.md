@@ -1,5 +1,5 @@
 # cshell
-Project 6 for CPE 357, Winter 2020, Professor Mammen.
+Project 6 for CPE 357 by Professor Mammen, Winter 2020
 
 Description: A simple shell program written in C.
 
